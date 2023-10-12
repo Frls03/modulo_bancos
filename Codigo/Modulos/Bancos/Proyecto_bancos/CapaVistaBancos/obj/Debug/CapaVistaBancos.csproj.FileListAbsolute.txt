@@ -1,0 +1,11 @@
+C:\Users\Luis\source\repos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaVistaBancos.dll
+C:\Users\Luis\source\repos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaVistaBancos.pdb
+C:\Users\Luis\source\repos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.dll
+C:\Users\Luis\source\repos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.pdb
+C:\Users\Luis\source\repos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaControladorBancos.dll
+C:\Users\Luis\source\repos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaControladorBancos.pdb
+C:\Users\Luis\source\repos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.csproj.CopyComplete
+C:\Users\Luis\source\repos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.Menu_inicial.resources
+C:\Users\Luis\source\repos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.csproj.GenerateResource.cache
