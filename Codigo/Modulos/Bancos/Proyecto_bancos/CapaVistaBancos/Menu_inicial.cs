@@ -26,9 +26,6 @@ namespace CapaVistaBancos
 
         private void movimientosBancariosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Mov_bancarios nmov = new Mov_bancarios();
-            nmov.MdiParent = this;
-            nmov.Show();
         }
 
         private void conciliaciónBancariaToolStripMenuItem_Click(object sender, EventArgs e)
@@ -42,6 +39,33 @@ namespace CapaVistaBancos
         {
             Ordenes_compra nordenes = new Ordenes_compra();
             nordenes.MdiParent = this;
+            nordenes.Show();
+        }
+
+        private void Menu_inicial_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void agregarCuentaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            agregar_cuenta ncuenta = new agregar_cuenta();
+            ncuenta.MdiParent = this;
+            ncuenta.Show();
+        }
+
+        private void agregarTipoDeMovimientoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            tipoMov ntipo = new tipoMov();
+            ntipo.MdiParent = this;
+            ntipo.Show();
+        }
+
+        private void ingresarTransaccionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Mov_bancarios nmov = new Mov_bancarios();
+            nmov.MdiParent = this;
+            nmov.Show();
         }
     }
 }
