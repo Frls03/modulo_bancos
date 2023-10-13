@@ -1,7 +1,7 @@
 ﻿
 namespace CapaVistaBancos
 {
-    partial class agregar_cuenta
+    partial class Mantenimiento_agregar_cuenta
     {
         /// <summary>
         /// Required designer variable.
@@ -30,14 +30,14 @@ namespace CapaVistaBancos
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.cb_tipomoneda = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txt_alias = new System.Windows.Forms.TextBox();
+            this.txt_numcuenta = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.comboBox3 = new System.Windows.Forms.ComboBox();
+            this.cb_selectbanco = new System.Windows.Forms.ComboBox();
+            this.cb_tipocuenta = new System.Windows.Forms.ComboBox();
             this.label6 = new System.Windows.Forms.Label();
             this.navegador1 = new CapaVista.Navegador();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
@@ -54,17 +54,17 @@ namespace CapaVistaBancos
             this.label1.TabIndex = 0;
             this.label1.Text = "Tipo de moneda: ";
             // 
-            // comboBox1
+            // cb_tipomoneda
             // 
-            this.comboBox1.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.cb_tipomoneda.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cb_tipomoneda.FormattingEnabled = true;
+            this.cb_tipomoneda.Items.AddRange(new object[] {
             "Quetzales",
             "Dólares"});
-            this.comboBox1.Location = new System.Drawing.Point(225, 176);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(169, 28);
-            this.comboBox1.TabIndex = 1;
+            this.cb_tipomoneda.Location = new System.Drawing.Point(225, 176);
+            this.cb_tipomoneda.Name = "cb_tipomoneda";
+            this.cb_tipomoneda.Size = new System.Drawing.Size(169, 28);
+            this.cb_tipomoneda.TabIndex = 1;
             // 
             // label2
             // 
@@ -77,21 +77,21 @@ namespace CapaVistaBancos
             this.label2.Text = "Número de cuenta:";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
-            // textBox1
+            // txt_alias
             // 
-            this.textBox1.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(667, 169);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(169, 26);
-            this.textBox1.TabIndex = 3;
+            this.txt_alias.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_alias.Location = new System.Drawing.Point(667, 169);
+            this.txt_alias.Name = "txt_alias";
+            this.txt_alias.Size = new System.Drawing.Size(169, 26);
+            this.txt_alias.TabIndex = 3;
             // 
-            // textBox2
+            // txt_numcuenta
             // 
-            this.textBox2.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(225, 134);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(169, 26);
-            this.textBox2.TabIndex = 4;
+            this.txt_numcuenta.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_numcuenta.Location = new System.Drawing.Point(225, 134);
+            this.txt_numcuenta.Name = "txt_numcuenta";
+            this.txt_numcuenta.Size = new System.Drawing.Size(169, 26);
+            this.txt_numcuenta.TabIndex = 4;
             // 
             // label3
             // 
@@ -113,36 +113,36 @@ namespace CapaVistaBancos
             this.label5.TabIndex = 8;
             this.label5.Text = "Tipo de cuenta:";
             // 
-            // comboBox2
+            // cb_selectbanco
             // 
-            this.comboBox2.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Items.AddRange(new object[] {
+            this.cb_selectbanco.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cb_selectbanco.FormattingEnabled = true;
+            this.cb_selectbanco.Items.AddRange(new object[] {
             "Banco Industrial",
             "Banco G&T",
             "Bantrab",
             "Banrural",
             "BAC",
             "BAM"});
-            this.comboBox2.Location = new System.Drawing.Point(667, 134);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(169, 28);
-            this.comboBox2.TabIndex = 9;
+            this.cb_selectbanco.Location = new System.Drawing.Point(667, 134);
+            this.cb_selectbanco.Name = "cb_selectbanco";
+            this.cb_selectbanco.Size = new System.Drawing.Size(169, 28);
+            this.cb_selectbanco.TabIndex = 9;
             // 
-            // comboBox3
+            // cb_tipocuenta
             // 
-            this.comboBox3.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Items.AddRange(new object[] {
+            this.cb_tipocuenta.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cb_tipocuenta.FormattingEnabled = true;
+            this.cb_tipocuenta.Items.AddRange(new object[] {
             "Monetaria",
             "Ahorros",
             "Nómina",
             "Ahorro en dólares",
             "Cheques"});
-            this.comboBox3.Location = new System.Drawing.Point(225, 212);
-            this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(169, 28);
-            this.comboBox3.TabIndex = 10;
+            this.cb_tipocuenta.Location = new System.Drawing.Point(225, 212);
+            this.cb_tipocuenta.Name = "cb_tipocuenta";
+            this.cb_tipocuenta.Size = new System.Drawing.Size(169, 28);
+            this.cb_tipocuenta.TabIndex = 10;
             // 
             // label6
             // 
@@ -172,7 +172,7 @@ namespace CapaVistaBancos
             this.dataGridView1.Size = new System.Drawing.Size(951, 174);
             this.dataGridView1.TabIndex = 13;
             // 
-            // agregar_cuenta
+            // Mantenimiento_agregar_cuenta
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -180,17 +180,17 @@ namespace CapaVistaBancos
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.navegador1);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.comboBox3);
-            this.Controls.Add(this.comboBox2);
+            this.Controls.Add(this.cb_tipocuenta);
+            this.Controls.Add(this.cb_selectbanco);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txt_numcuenta);
+            this.Controls.Add(this.txt_alias);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.cb_tipomoneda);
             this.Controls.Add(this.label1);
-            this.Name = "agregar_cuenta";
-            this.Text = "Agregar Cuenta";
+            this.Name = "Mantenimiento_agregar_cuenta";
+            this.Text = "Mantenimiento Agregar Cuenta";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -200,14 +200,14 @@ namespace CapaVistaBancos
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox cb_tipomoneda;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txt_alias;
+        private System.Windows.Forms.TextBox txt_numcuenta;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.ComboBox comboBox3;
+        private System.Windows.Forms.ComboBox cb_selectbanco;
+        private System.Windows.Forms.ComboBox cb_tipocuenta;
         private System.Windows.Forms.Label label6;
         private CapaVista.Navegador navegador1;
         private System.Windows.Forms.DataGridView dataGridView1;

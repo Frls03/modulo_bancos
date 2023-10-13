@@ -49,11 +49,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="agregar_cuenta.cs">
+    <Compile Include="Mantenimiento_Agregar_Bancos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="agregar_cuenta.Designer.cs">
-      <DependentUpon>agregar_cuenta.cs</DependentUpon>
+    <Compile Include="Mantenimiento_Agregar_Bancos.Designer.cs">
+      <DependentUpon>Mantenimiento_Agregar_Bancos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento_agregar_cuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento_agregar_cuenta.Designer.cs">
+      <DependentUpon>Mantenimiento_agregar_cuenta.cs</DependentUpon>
     </Compile>
     <Compile Include="Con_bancaria.cs">
       <SubType>Form</SubType>
@@ -100,8 +106,11 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="agregar_cuenta.resx">
-      <DependentUpon>agregar_cuenta.cs</DependentUpon>
+    <EmbeddedResource Include="Mantenimiento_Agregar_Bancos.resx">
+      <DependentUpon>Mantenimiento_Agregar_Bancos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento_agregar_cuenta.resx">
+      <DependentUpon>Mantenimiento_agregar_cuenta.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Mantenimiento_OrdenesdeCompra.resx">
       <DependentUpon>Mantenimiento_OrdenesdeCompra.cs</DependentUpon>

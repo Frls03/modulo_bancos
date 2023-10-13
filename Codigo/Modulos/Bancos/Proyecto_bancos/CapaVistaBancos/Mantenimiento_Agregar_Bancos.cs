@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CapaVistaBancos
 {
-    public partial class agregar_cuenta : Form
+    public partial class Mantenimiento_Agregar_Bancos : Form
     {
-        public agregar_cuenta()
+        public Mantenimiento_Agregar_Bancos()
         {
             InitializeComponent();
         }

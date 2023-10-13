@@ -49,7 +49,7 @@ namespace CapaVistaBancos
 
         private void agregarCuentaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            agregar_cuenta ncuenta = new agregar_cuenta();
+            Mantenimiento_agregar_cuenta ncuenta = new Mantenimiento_agregar_cuenta();
             ncuenta.MdiParent = this;
             ncuenta.Show();
         }
