@@ -56,7 +56,7 @@ namespace CapaVistaBancos
 
         private void agregarTipoDeMovimientoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            tipoMov ntipo = new tipoMov();
+            Mantenimiento_tipoMov ntipo = new Mantenimiento_tipoMov();
             ntipo.MdiParent = this;
             ntipo.Show();
         }
@@ -66,6 +66,11 @@ namespace CapaVistaBancos
             Mov_bancarios nmov = new Mov_bancarios();
             nmov.MdiParent = this;
             nmov.Show();
+        }
+
+        private void agregarCuentasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

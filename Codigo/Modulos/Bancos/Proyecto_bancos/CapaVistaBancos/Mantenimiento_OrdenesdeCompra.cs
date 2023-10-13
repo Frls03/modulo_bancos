@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CapaVistaBancos
 {
-    public partial class Mantenimiento : Form
+    public partial class Mantenimiento_OrdenesdeCompra : Form
     {
-        public Mantenimiento()
+        public Mantenimiento_OrdenesdeCompra()
         {
             InitializeComponent();
         }

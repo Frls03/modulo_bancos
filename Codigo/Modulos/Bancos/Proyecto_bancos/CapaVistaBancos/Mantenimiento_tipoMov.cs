@@ -10,14 +10,24 @@ using System.Windows.Forms;
 
 namespace CapaVistaBancos
 {
-    public partial class tipoMov : Form
+    public partial class Mantenimiento_tipoMov : Form
     {
-        public tipoMov()
+        public Mantenimiento_tipoMov()
         {
             InitializeComponent();
         }
 
         private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
