@@ -19,7 +19,7 @@ namespace CapaVistaBancos
 
         private void disponibilidadYTipoDeCambioToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Dispo_tcambio ndispo = new Dispo_tcambio();
+            Tipo_cambio ndispo = new Tipo_cambio();
             ndispo.MdiParent = this;
             ndispo.Show();
         }

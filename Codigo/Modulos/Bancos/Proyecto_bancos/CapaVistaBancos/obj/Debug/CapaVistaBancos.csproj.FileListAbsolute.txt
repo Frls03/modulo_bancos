@@ -46,3 +46,27 @@ C:\Users\PC\Desktop\MOD BANCOS\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_banc
 C:\Users\PC\Desktop\MOD BANCOS\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaControladorNav.pdb
 C:\Users\PC\Desktop\MOD BANCOS\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaModeloNav.pdb
 C:\Users\PC\Desktop\MOD BANCOS\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.csproj.CopyComplete
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaVistaBancos.dll
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaVistaBancos.pdb
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaControladorBancos.dll
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaVistaNav.dll
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaControladorNav.dll
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaModeloNav.dll
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaControladorBancos.pdb
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaVistaNav.pdb
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaControladorNav.pdb
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\bin\Debug\CapaModeloNav.pdb
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.csproj.AssemblyReference.cache
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.Con_bancaria.resources
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.Dispo_tcambio.resources
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.Mantenimiento_Agregar_Bancos.resources
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.Mantenimiento_agregar_cuenta.resources
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.Mantenimiento_OrdenesdeCompra.resources
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.Menu_inicial.resources
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.Mov_bancarios.resources
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.Mantenimiento_tipoMov.resources
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.csproj.GenerateResource.cache
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.csproj.CoreCompileInputs.cache
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.csproj.CopyComplete
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.dll
+C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.pdb
