@@ -16,5 +16,10 @@ namespace CapaVistaBancos
         {
             InitializeComponent();
         }
+
+        private void Con_bancaria_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
