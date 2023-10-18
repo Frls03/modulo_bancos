@@ -20,7 +20,13 @@ namespace CapaVistaBancos
 
         private void disponibilidadYTipoDeCambioToolStripMenuItem_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
 
+=======
+            Tipo_cambio ndispo = new Tipo_cambio();
+            ndispo.MdiParent = this;
+            ndispo.Show();
+>>>>>>> 85db71d3da07734bc6d4d3e087a3545e54f45462
         }
 
         private void movimientosBancariosToolStripMenuItem_Click(object sender, EventArgs e)

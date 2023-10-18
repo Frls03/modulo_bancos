@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CapaVistaBancos
 {
-    public partial class Dispo_tcambio : Form
+    public partial class Tipo_cambio : Form
     {
-        public Dispo_tcambio()
+        public Tipo_cambio()
         {
             InitializeComponent();
         }
