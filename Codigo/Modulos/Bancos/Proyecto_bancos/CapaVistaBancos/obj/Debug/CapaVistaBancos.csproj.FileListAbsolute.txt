@@ -98,3 +98,5 @@ C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proye
 C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.dll
 C:\Users\Isabel\Desktop\Proyecto_banco\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.pdb
 >>>>>>> 85db71d3da07734bc6d4d3e087a3545e54f45462
+C:\Users\Luis\Desktop\8vo semestre\Analisis 2\bancos\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.Dispo_diaria.resources
+C:\Users\Luis\Desktop\8vo semestre\Analisis 2\bancos\modulo_bancos\Codigo\Modulos\Bancos\Proyecto_bancos\CapaVistaBancos\obj\Debug\CapaVistaBancos.Tipo_cambio.resources

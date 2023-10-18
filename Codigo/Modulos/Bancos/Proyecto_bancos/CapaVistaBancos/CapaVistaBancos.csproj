@@ -152,5 +152,38 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bank_bill_finance_invoice_money_payment_receipt_icon_123239.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bank_transfer_icon_137913.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building_icon_255880.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building_icon_255889.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin_currency_dollar_finance_money_payment_wallet_icon_123189.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grafico-histograma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo bytech.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maintenance-48_45724.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\piggy-bank_icon-icons.com_65003.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purchase_order-48_45448.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transfer_icon-icons.com_64677.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

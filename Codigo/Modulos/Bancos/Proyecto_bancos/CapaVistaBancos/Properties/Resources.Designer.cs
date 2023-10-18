@@ -59,5 +59,115 @@ namespace CapaVistaBancos.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bank_bill_finance_invoice_money_payment_receipt_icon_123239 {
+            get {
+                object obj = ResourceManager.GetObject("bank_bill_finance_invoice_money_payment_receipt_icon_123239", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bank_transfer_icon_137913 {
+            get {
+                object obj = ResourceManager.GetObject("bank_transfer_icon_137913", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap building_icon_255880 {
+            get {
+                object obj = ResourceManager.GetObject("building_icon_255880", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap building_icon_255889 {
+            get {
+                object obj = ResourceManager.GetObject("building_icon_255889", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap coin_currency_dollar_finance_money_payment_wallet_icon_123189 {
+            get {
+                object obj = ResourceManager.GetObject("coin_currency_dollar_finance_money_payment_wallet_icon_123189", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap grafico_histograma {
+            get {
+                object obj = ResourceManager.GetObject("grafico-histograma", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap logo_bytech {
+            get {
+                object obj = ResourceManager.GetObject("logo bytech", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap maintenance_48_45724 {
+            get {
+                object obj = ResourceManager.GetObject("maintenance-48_45724", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap piggy_bank_icon_icons_com_65003 {
+            get {
+                object obj = ResourceManager.GetObject("piggy-bank_icon-icons.com_65003", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap purchase_order_48_45448 {
+            get {
+                object obj = ResourceManager.GetObject("purchase_order-48_45448", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap transfer_icon_icons_com_64677 {
+            get {
+                object obj = ResourceManager.GetObject("transfer_icon-icons.com_64677", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
