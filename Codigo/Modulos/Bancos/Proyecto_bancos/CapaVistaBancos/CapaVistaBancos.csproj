@@ -104,6 +104,11 @@
     <Compile Include="Mantenimiento_tipoMov.Designer.cs">
       <DependentUpon>Mantenimiento_tipoMov.cs</DependentUpon>
     </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Con_bancaria.resx">
@@ -126,6 +131,13 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Mantenimiento_tipoMov.resx">
       <DependentUpon>Mantenimiento_tipoMov.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ordenes_compra.resx">
+      <DependentUpon>Ordenes_compra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
