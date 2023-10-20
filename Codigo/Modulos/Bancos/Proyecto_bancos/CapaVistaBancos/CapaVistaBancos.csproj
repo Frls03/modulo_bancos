@@ -49,6 +49,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dispo_diaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dispo_diaria.Designer.cs">
+      <DependentUpon>Dispo_diaria.cs</DependentUpon>
+    </Compile>
     <Compile Include="Mantenimiento_Agregar_Bancos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,11 +73,11 @@
     <Compile Include="Con_bancaria.Designer.cs">
       <DependentUpon>Con_bancaria.cs</DependentUpon>
     </Compile>
-    <Compile Include="Dispo_tcambio.cs">
+    <Compile Include="Tipo_cambio.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Dispo_tcambio.Designer.cs">
-      <DependentUpon>Dispo_tcambio.cs</DependentUpon>
+    <Compile Include="Tipo_cambio.Designer.cs">
+      <DependentUpon>Tipo_cambio.cs</DependentUpon>
     </Compile>
     <Compile Include="Mantenimiento_OrdenesdeCompra.cs">
       <SubType>Form</SubType>
@@ -104,10 +110,21 @@
     <Compile Include="Mantenimiento_tipoMov.Designer.cs">
       <DependentUpon>Mantenimiento_tipoMov.cs</DependentUpon>
     </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Con_bancaria.resx">
       <DependentUpon>Con_bancaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dispo_diaria.resx">
+      <DependentUpon>Dispo_diaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tipo_cambio.resx">
+      <DependentUpon>Tipo_cambio.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Mantenimiento_Agregar_Bancos.resx">
       <DependentUpon>Mantenimiento_Agregar_Bancos.cs</DependentUpon>
@@ -127,6 +144,46 @@
     <EmbeddedResource Include="Mantenimiento_tipoMov.resx">
       <DependentUpon>Mantenimiento_tipoMov.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Ordenes_compra.resx">
+      <DependentUpon>Ordenes_compra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bank_bill_finance_invoice_money_payment_receipt_icon_123239.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bank_transfer_icon_137913.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building_icon_255880.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building_icon_255889.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin_currency_dollar_finance_money_payment_wallet_icon_123189.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grafico-histograma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo bytech.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maintenance-48_45724.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\piggy-bank_icon-icons.com_65003.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purchase_order-48_45448.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transfer_icon-icons.com_64677.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
