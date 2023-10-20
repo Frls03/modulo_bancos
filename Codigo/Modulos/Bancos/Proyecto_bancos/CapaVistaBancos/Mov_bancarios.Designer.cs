@@ -156,6 +156,7 @@ namespace CapaVistaBancos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(187)))), ((int)(((byte)(161)))), ((int)(((byte)(116)))));
             this.ClientSize = new System.Drawing.Size(941, 450);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.dataGridView1);
